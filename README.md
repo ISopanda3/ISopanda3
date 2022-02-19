@@ -1,4 +1,4 @@
-# Hi there, I'm Solus - aka [Cesar][youtube] 👋 
+# Hi there, I'm Cesar - aka [Solus][youtube] 👋 
 
 
 ## I'm a Student, Developer, and a dude who is working hard!!

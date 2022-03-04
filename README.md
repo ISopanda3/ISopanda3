@@ -20,8 +20,6 @@
 [![website](./img/twitter-light.svg)](https://twitter.com/SamSolus#gh-light-mode-only)
 [![website](./img/twitter-dark.svg)](https://twitter.com/SamSolus#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/linkedin-dark.svg)]()
-&nbsp;&nbsp;
 [![website](./img/instagram-light.svg)](https://www.instagram.com/samissolus/#gh-light-mode-only)
 [![website](./img/instagram-dark.svg)](https://www.instagram.com/samissolus/#gh-dark-mode-only)
 

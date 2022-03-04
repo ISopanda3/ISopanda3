@@ -1,5 +1,5 @@
-# Hi there, I'm Cesar - aka [Solus][youtube] 👋 
-
+ 
+# <h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, I'm Cesar - aka [Solus]! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
 
 ## I'm a Student, Developer, and a dude who is working hard!!
 

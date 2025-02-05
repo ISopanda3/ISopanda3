@@ -5,10 +5,9 @@
 
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
 
-- 🌱 I’m currently learning everything 🤣
+- 🌱 I’m currently learning everything 😉
 - 👯 I’m looking to start new projects.
-- 🥅 2022 Goals: Learn more about C#
-- ⚡ Fun fact: I love to draw and play Piano / drums
+- 🥅 2025 Goals: Java script and Databases
 - 😻 Check out my portfolio: [Solus](https://nostalgic-liskov-86509c.netlify.app/)
 
 ### Connect with me:
